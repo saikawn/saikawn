@@ -1,6 +1,6 @@
-#Sai Kwan
-![Design & Development](https://raw.githubusercontent.com/saikawn/saikawn/master/SaiKwan_Banner.png)
 
+![Design & Development](https://raw.githubusercontent.com/saikawn/saikawn/master/SaiKwan_Banner.png)
+# Sai Kwan
 I'm Sai Kwan from Myanmar and I do content on Design and Development. I really enjoy learning languages and frameworks like React as well as work in WordPress. I also enjoy wire-framing, UI, UX and design in general. 
 
 ## Skills and Experience
